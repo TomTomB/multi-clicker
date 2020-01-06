@@ -1,3 +1,3 @@
 # Multi-Clicker
 
-A APM test written in Svelte
+A simple APM test written in Svelte
